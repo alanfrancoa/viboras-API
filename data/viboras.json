@@ -1,0 +1,276 @@
+{
+    "serpientes": [
+      {
+        "id": 1,
+        "nombre_comun": "Boa constrictor",
+        "nombre_cientifico": "Boa constrictor",
+        "descripcion": "Serpiente grande no venenosa que mata por constricción. Puede medir hasta 4 metros.",
+        "continente": "América",
+        "año_descubrimiento": 1758
+      },
+      {
+        "id": 2,
+        "nombre_comun": "Cobra real",
+        "nombre_cientifico": "Ophiophagus hannah",
+        "descripcion": "La serpiente venenosa más larga del mundo, puede superar los 5 metros.",
+        "continente": "Asia",
+        "año_descubrimiento": 1836
+      },
+      {
+        "id": 3,
+        "nombre_comun": "Anaconda verde",
+        "nombre_cientifico": "Eunectes murinus",
+        "descripcion": "Una de las serpientes más grandes y pesadas del mundo, vive en ambientes acuáticos.",
+        "continente": "América del Sur",
+        "año_descubrimiento": 1758
+      },
+      {
+        "id": 4,
+        "nombre_comun": "Mamba negra",
+        "nombre_cientifico": "Dendroaspis polylepis",
+        "descripcion": "Serpiente extremadamente venenosa y rápida, considerada de las más peligrosas de África.",
+        "continente": "África",
+        "año_descubrimiento": 1864
+      },
+      {
+        "id": 5,
+        "nombre_comun": "Pitón reticulada",
+        "nombre_cientifico": "Malayopython reticulatus",
+        "descripcion": "La serpiente más larga del mundo, puede superar los 8 metros.",
+        "continente": "Asia",
+        "año_descubrimiento": 1801
+      },
+      {
+        "id": 6,
+        "nombre_comun": "Cascabel diamante occidental",
+        "nombre_cientifico": "Crotalus atrox",
+        "descripcion": "Serpiente venenosa con cascabel en la cola, común en el suroeste de EE.UU.",
+        "continente": "América del Norte",
+        "año_descubrimiento": 1853
+      },
+      {
+        "id": 7,
+        "nombre_comun": "Taipán del interior",
+        "nombre_cientifico": "Oxyuranus microlepidotus",
+        "descripcion": "Considerada la serpiente más venenosa del mundo.",
+        "continente": "Australia",
+        "año_descubrimiento": 1879
+      },
+      {
+        "id": 8,
+        "nombre_comun": "Víbora de Russell",
+        "nombre_cientifico": "Daboia russelii",
+        "descripcion": "Serpiente venenosa responsable de muchas mordeduras en Asia.",
+        "continente": "Asia",
+        "año_descubrimiento": 1797
+      },
+      {
+        "id": 9,
+        "nombre_comun": "Serpiente de coral",
+        "nombre_cientifico": "Micrurus fulvius",
+        "descripcion": "Serpiente venenosa con colores brillantes de bandas rojas, amarillas y negras.",
+        "continente": "América del Norte",
+        "año_descubrimiento": 1766
+      },
+      {
+        "id": 10,
+        "nombre_comun": "Pitón birmana",
+        "nombre_cientifico": "Python bivittatus",
+        "descripcion": "Gran serpiente constrictora, popular en el comercio de mascotas.",
+        "continente": "Asia",
+        "año_descubrimiento": 1820
+      },
+      {
+        "id": 11,
+        "nombre_comun": "Serpiente rata negra",
+        "nombre_cientifico": "Pantherophis obsoletus",
+        "descripcion": "Serpiente no venenosa común en Norteamérica, excelente trepadora.",
+        "continente": "América del Norte",
+        "año_descubrimiento": 1820
+      },
+      {
+        "id": 12,
+        "nombre_comun": "Krait rayado",
+        "nombre_cientifico": "Bungarus fasciatus",
+        "descripcion": "Serpiente altamente venenosa con bandas negras y amarillas.",
+        "continente": "Asia",
+        "año_descubrimiento": 1801
+      },
+      {
+        "id": 13,
+        "nombre_comun": "Víbora de Gabón",
+        "nombre_cientifico": "Bitis gabonica",
+        "descripcion": "Víbora con los colmillos más largos y un potente veneno.",
+        "continente": "África",
+        "año_descubrimiento": 1854
+      },
+      {
+        "id": 14,
+        "nombre_comun": "Serpiente de liga",
+        "nombre_cientifico": "Thamnophis sirtalis",
+        "descripcion": "Serpiente común en Norteamérica, inofensiva para los humanos.",
+        "continente": "América del Norte",
+        "año_descubrimiento": 1758
+      },
+      {
+        "id": 15,
+        "nombre_comun": "Pitón de la India",
+        "nombre_cientifico": "Python molurus",
+        "descripcion": "Gran serpiente constrictora, venerada en algunas culturas.",
+        "continente": "Asia",
+        "año_descubrimiento": 1758
+      },
+      {
+        "id": 16,
+        "nombre_comun": "Serpiente marina amarilla",
+        "nombre_cientifico": "Hydrophis spiralis",
+        "descripcion": "Serpiente marina altamente venenosa que vive en océanos tropicales.",
+        "continente": "Asia/Oceanía",
+        "año_descubrimiento": 1799
+      },
+      {
+        "id": 17,
+        "nombre_comun": "Víbora de los arbustos",
+        "nombre_cientifico": "Atheris hispida",
+        "descripcion": "Pequeña víbora arbórea con escamas quilladas distintivas.",
+        "continente": "África",
+        "año_descubrimiento": 1922
+      },
+      {
+        "id": 18,
+        "nombre_comun": "Serpiente toro",
+        "nombre_cientifico": "Pituophis catenifer",
+        "descripcion": "Serpiente grande no venenosa, conocida por su potente silbido.",
+        "continente": "América del Norte",
+        "año_descubrimiento": 1853
+      },
+      {
+        "id": 19,
+        "nombre_comun": "Serpiente de jarretera",
+        "nombre_cientifico": "Thamnophis elegans",
+        "descripcion": "Pequeña serpiente común en hábitats húmedos de Norteamérica.",
+        "continente": "América del Norte",
+        "año_descubrimiento": 1853
+      },
+      {
+        "id": 20,
+        "nombre_comun": "Pitón de Angola",
+        "nombre_cientifico": "Python anchietae",
+        "descripcion": "Pitón endémica del suroeste de África, de tamaño moderado.",
+        "continente": "África",
+        "año_descubrimiento": 1887
+      },
+      {
+        "id": 21,
+        "nombre_comun": "Serpiente de cascabel de Mojave",
+        "nombre_cientifico": "Crotalus scutulatus",
+        "descripcion": "Serpiente altamente venenosa con neurotoxinas potentes.",
+        "continente": "América del Norte",
+        "año_descubrimiento": 1861
+      },
+      {
+        "id": 22,
+        "nombre_comun": "Serpiente de árbol marrón",
+        "nombre_cientifico": "Boiga irregularis",
+        "descripcion": "Serpiente invasora responsable de daños ecológicos en Guam.",
+        "continente": "Oceanía (invasora)",
+        "año_descubrimiento": 1802
+      },
+      {
+        "id": 23,
+        "nombre_comun": "Víbora cornuda",
+        "nombre_cientifico": "Cerastes cerastes",
+        "descripcion": "Víbora del desierto con 'cuernos' característicos sobre los ojos.",
+        "continente": "África/Asia",
+        "año_descubrimiento": 1758
+      },
+      {
+        "id": 24,
+        "nombre_comun": "Serpiente de coral azul",
+        "nombre_cientifico": "Calliophis bivirgatus",
+        "descripcion": "Serpiente venenosa con colores brillantes azules y rojos.",
+        "continente": "Asia",
+        "año_descubrimiento": 1827
+      },
+      {
+        "id": 25,
+        "nombre_comun": "Pitón de sangre",
+        "nombre_cientifico": "Python brongersmai",
+        "descripcion": "Pitón de colores rojizos intensos, popular en cautiverio.",
+        "continente": "Asia",
+        "año_descubrimiento": 1938
+      },
+      {
+        "id": 26,
+        "nombre_comun": "Serpiente de hocico de cerdo",
+        "nombre_cientifico": "Heterodon nasicus",
+        "descripcion": "Serpiente inofensiva que finge muerte cuando se siente amenazada.",
+        "continente": "América del Norte",
+        "año_descubrimiento": 1852
+      },
+      {
+        "id": 27,
+        "nombre_comun": "Culebra bastarda",
+        "nombre_cientifico": "Malpolon monspessulanus",
+        "descripcion": "Serpiente grande y ágil, con un ligero veneno inofensivo para humanos.",
+        "continente": "Europa/África",
+        "año_descubrimiento": 1804
+      },
+      {
+        "id": 28,
+        "nombre_comun": "Serpiente tigre",
+        "nombre_cientifico": "Notechis scutatus",
+        "descripcion": "Serpiente altamente venenosa endémica del sur de Australia.",
+        "continente": "Australia",
+        "año_descubrimiento": 1802
+      },
+      {
+        "id": 29,
+        "nombre_comun": "Víbora de lataste",
+        "nombre_cientifico": "Vipera latastei",
+        "descripcion": "Víbora venenosa de la península ibérica y norte de África.",
+        "continente": "Europa/África",
+        "año_descubrimiento": 1878
+      },
+      {
+        "id": 30,
+        "nombre_comun": "Serpiente de maíz",
+        "nombre_cientifico": "Pantherophis guttatus",
+        "descripcion": "Popular serpiente de mascota, inofensiva y de colores variados.",
+        "continente": "América del Norte",
+        "año_descubrimiento": 1766
+      },
+      {
+        "id": 31,
+        "nombre_comun": "Vibora de la costa",
+        "nombre_cientifico": "Alansini bambino bratsini bombineallis",
+        "descripcion": "Vibora altamente venenosa oriunda de la cordillera de los Andes, especie invasora de la costa atlantica,se caracteriza por su llamativo color verde Brat.",
+        "continente": "América del Sur",
+        "año_descubrimiento": 1993
+      },
+      {
+        "id": 32,
+        "nombre_comun": "Serpiente del cafe",
+        "nombre_cientifico": "Arielini bambina capuccianillis",
+        "descripcion": "Vibora altamente venenosa oriunda del sur del AMBA, su habitat natural son los cafes de especialidad.",
+        "continente": "América del Sur",
+        "año_descubrimiento": 1997
+      },
+      {
+        "id": 33,
+        "nombre_comun": "Serpiente arianator",
+        "nombre_cientifico": "Abrilini bambina arianininini bombirellis",
+        "descripcion": "Vibora altamente venenosa oriunda del barrio de Caballito, a pesar de su corta edad posee una de las mordidas mas venenosas conocidas.",
+        "continente": "América del Sur",
+        "año_descubrimiento": 2004
+      },
+      {
+        "id": 34,
+        "nombre_comun": "Vibora de la nicotina",
+        "nombre_cientifico": "Matiasini bambino marlborini esnupiannis",
+        "descripcion": "Vibora altamente venenosa oriunda del barrio de Saavedra, se caracteriza por su llamativo color rojo ferrari.",
+        "continente": "América del Sur",
+        "año_descubrimiento": 1995
+      }
+    ]
+  }
