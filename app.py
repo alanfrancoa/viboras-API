@@ -32,3 +32,21 @@ def get_vibora_by_id(id_vibora):
     if res:
         return res, 200  # Usar 200 (OK) 
     return {'message': 'Vibora no encontrada'}, 404
+
+#[GET] - Obtener la vibora por Nombre
+@app.route('/vibora/nombre/<string:nombre>')
+def get_vibora_by_name(nombre):
+
+    #cargamos json con info
+    data = cargar_viboras()
+
+    #Llamamos a la funcion filtrar por nombre
+    if "serpientes" in data:
+        res = filtrar_por_nombre(data["serpientes"], nombre)
+    else:
+        res = None
+    
+    if res:
+        return res, 200
+    return {'message': 'Serpiente no encontrada'}, 404
+
